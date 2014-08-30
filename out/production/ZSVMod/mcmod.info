@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ZSVMod",
+  "name": "ZSVMod",
+  "description": "A Minecraft Zombie / Surivial / Virus Mod",
+  "version": "1.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["stevenh214", "ThatEskimoDude"],
+  "credits": "#ThatEskimoDude for the idea and textures,/\n/g #stevenh214 for making the mod, #minecraftforge irc for support, and Forge and FML guys for saving our lives",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
