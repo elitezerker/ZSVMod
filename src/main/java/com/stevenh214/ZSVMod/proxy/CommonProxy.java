@@ -1,6 +1,6 @@
 package com.stevenh214.ZSVMod.proxy;
 
-public class CommonProxy implements IProxy
+public abstract class CommonProxy implements IProxy
 {
 
 }
